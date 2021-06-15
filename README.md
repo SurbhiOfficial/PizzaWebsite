@@ -1,2 +1,3 @@
 # PizzaWebsite
-The FrontEnd Of this Website done with React Js ( Single Page Application). 
+In this Project, I worked on the Design of Pizza Website using React Js to make website as Single page Application . 
+<img src="file:///Users/surbhi/Desktop/Homepage.png">
